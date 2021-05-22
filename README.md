@@ -36,3 +36,5 @@ Here's an overview of the technologies I have used over the past years.
 
 ### Appreciate my work?
 <a href='https://ko-fi.com/C0C44KOYC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+or [sponsor me using GitHub Sponsors](https://github.com/sponsors/DieterHolvoet).
