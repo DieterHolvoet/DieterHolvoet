@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Technologies
 Here's an overview of the technologies I have used over the past years.
 
-<a href='https://profile.codersrank.io/user/dieterholvoet' target='_blank'><img style='border:0px;height:36px;' src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dieterholvoet&skills=CSS,Dart,Java,JavaScript,Less,PHP,SCSS,Shell&bg=f0f6fc' border='0' alt='Overview of my work experience' /></a>
+<a href='https://profile.codersrank.io/user/dieterholvoet' target='_blank'><img style='height: auto; width: 500px; max-width: 100%' src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dieterholvoet&skills=CSS,Dart,Java,JavaScript,Less,PHP,SCSS,Shell&bg=f0f6fc' border='0' alt='Overview of my work experience' /></a>
 
 ### Appreciate my work?
 <a href='https://ko-fi.com/C0C44KOYC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
