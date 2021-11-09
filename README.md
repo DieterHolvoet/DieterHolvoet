@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Dieter, a full stack web developer from Leuven, Belgium.
+I'm Dieter, a full stack web developer from Brussels, Belgium.
 
 [![Gmail Badge](https://img.shields.io/badge/-dieter.holvoet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dieter.holvoet@gmail.com)](mailto:dieter.holvoet@gmail.com)
 [![Messenger Badge](https://img.shields.io/badge/-dieterholvoet-006AFF?style=flat-square&logo=Messenger&logoColor=white&link=https://m.me/dieterholvoet)](https://m.me/dieterholvoet)
