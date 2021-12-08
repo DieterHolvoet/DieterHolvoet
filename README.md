@@ -6,9 +6,9 @@ I'm Dieter, a full stack web developer from Brussels, Belgium.
 [![Linkedin Badge](https://img.shields.io/badge/-dieterholvoet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dieterholvoet/)](https://www.linkedin.com/in/dieterholvoet/)
 
 
-- 👨‍💻 I'm a full time backend developer for [Wieni](https://www.wieni.be/werken-bij-wieni/wie-wie/dieter-backend-developer)
+- 👨‍💻 I'm a full time Drupal backend developer for [Minsky Web Agency](https://www.minsky.be/)
 - 💻 I'm a freelancer in secondary occupation. I mostly develop, maintain and host websites, but I'm also available for graphic work such as logos, posters, flyers, images for social media and more.
-- 💧 I contribute to Drupal modules on [Drupal.org](https://www.drupal.org/u/dieterholvoet) and I maintain Wieni's Drupal modules on [GitHub](https://github.com/wieni?q=drupal-module)
+- 💧 I contribute to Drupal modules on [Drupal.org](https://www.drupal.org/u/dieterholvoet)
 - 🍁 I create and contribute to OctoberCMS plugins on the [OctoberCMS plugin marketplace](https://octobercms.com/author/DieterHolvoet) and on [GitHub](https://github.com/DieterHolvoet?tab=repositories&q=octobercms-plugin)
 - 🛒 I contribute to Sylius plugins on [GitHub](https://github.com/DieterHolvoet?tab=repositories&q=sylius-plugin)
 - 🐘 I contribute to various other, mostly PHP related projects.
